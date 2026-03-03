@@ -1,0 +1,1658 @@
+<div class="col mt-0 d-flex flex-column row-gap-3">
+                                                
+                    
+
+<section id="section-20844317-0" data-listing-id="20844317" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-20844317-0" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="20844317" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208443170.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208443170.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel208443170" class="keen-slider">                    <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><iframe class="youtube-player" id="youtube-player-20844317-0" data-value="SH58fJraWNc" title="YouTube video player" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" width="640" height="360" src="https://www.youtube-nocookie.com/embed/SH58fJraWNc?autoplay=0&amp;mute=1&amp;controls=1&amp;disablekb=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;loop=1&amp;rel=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.machineseeker.com&amp;widgetid=11&amp;forigin=https%3A%2F%2Fwww.machineseeker.com%2Fmain%2Fsearch%2Findex%3Fsub-sub-category-ids%255B%255D%3D861%26main-category-ids%255B%255D%3D8%26sub-category-ids%255B%255D%3D105%26has-price%3D1%26countries%255B%255D%3DAT%26countries%255B%255D%3DBE%26countries%255B%255D%3DCH%26countries%255B%255D%3DCZ%26countries%255B%255D%3DDE%26countries%255B%255D%3DES%26countries%255B%255D%3DFR%26countries%255B%255D%3DLT%26countries%255B%255D%3DNL%26countries%255B%255D%3DPL%26countries%255B%255D%3DRO%26countries%255B%255D%3DSI%26countries%255B%255D%3DTR%26conditions%255B%255D%3Dused&amp;aoriginsup=1&amp;gporigin=https%3A%2F%2Fwww.machineseeker.com%2F&amp;vf=6"></iframe></div>        <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-01.jpg?v=1767135718" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-02.jpg?v=1767135718" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-03.jpg?v=1767135718" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-04.jpg?v=1767135718" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-05.jpg?v=1767135718" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-06.jpg?v=1767135718" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-07.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-08.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-09.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-10.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-11.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-12.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-13.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-14.jpg?v=1767135719" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/liebherr-r998+lc-v/i-20844317" aria-label="Demolition Excavator Liebherr R998 LC-V">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/02/37/20844317-15.jpg?v=1767135720" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Liebherr R998 LC-V">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="20844317" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(20844317,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20844317" onclick="inquiry.getForm(20844317,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-20844317" data-listingid="20844317" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208443170.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208443170.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="15 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="20844317" onclick="listingModal.getModal(20844317, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">15</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-de" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="Germany" alt="Germany">
+                Germany    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            12,029 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/liebherr-r998+lc-v/i-20844317" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Demolition Excavator</span> <br>
+            <span class="me-1">Liebherr</span>
+        <span>R998 LC-V</span>
+    </h2>
+</a>
+<div data-grid="seal">
+            <span class="trustsealLoad" role="button" data-id="73855" data-customer-widget="" onclick="frontend.register.loadModal(true)"><img class="trustseal--image--60" src="https://cdn.machineseeker.com/img/frontend/user/trustseal/inserat/icon_b_ms.svg?v=1763643660" alt="Certified Dealer" loading="lazy"></span>    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/liebherr-r998+lc-v/i-20844317">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €898,000    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+         fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="20844317" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20844317,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20844317" onclick="inquiry.getForm(20844317,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '73855',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '20844317',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('20844317','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="20844317">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="20844317" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-20844317-0" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(20844317, 0, 0, 1)">
+        <div>
+            <div class="collapse long-description-20844317-0 description-preview show fs-7">
+                Condition: <b>used</b>, Year of construction: <b>2024</b>, operating hours: <b>934 h</b>, 2024 | Liebherr R998 LC-V | Used Demolition Excavator | 934 hours
+
+📍Location: Germany, Sindelfingen
+🚛 Delivery available to your destination – Use our shipping calculator to estimate transport costs!
+  
+💰 Buy Now for EUR 898000 or Make an Offer. 
+Payment at delivery available for an affordable fee (subject to approval)*
+
+👷‍♂️ Inspected by an independent expert
+68 inspection points 63 approved ✅ 4 imperfect ℹ️ 1 issues ⚠️
+📌 Inspector's Comment:  
+Well-functioning and tidy Liebherr 998, low operating hours, but has already done some work. Slewing brake would need maintenance, braking time is a bit longer. Hydraulic system and pump recently serviced. The left stick cylinder is leaking and the tracks could be tightened a bit. Apart from a few scratches and dents, it's still a tidy excavator.
+
+📄 Want to see the full inspection, extra photos, or a video?
+Bjcsx Rd E So Uhxzdcjcw
+Tip: The reference "38272 Equippo" is commonly used when looking up more details online.
+
+💡 Why this machine and our service stands out:
+✔ Thorough inspection by professionals
+✔ Jobsite delivery available
+✔ Money-Back Guaranteed 
+✔ Secure and flexible payment options
+
+🔄 Considering other equipment options?
+We offer helpful tools and resources for all equipment owners and operators – easily accessible on our platform.            </div>
+            <div class="collapse long-description-20844317-0 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-20844317-0 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="20844317" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20844317,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20844317" onclick="inquiry.getForm(20844317,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/liebherr-r998+lc-v/i-20844317" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                                        
+                    
+
+<section id="section-20810897-1" data-listing-id="20810897" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-20810897-1" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="20810897" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208108971.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208108971.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel208108971" class="keen-slider">                    <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><iframe class="youtube-player" id="youtube-player-20810897-1" data-value="Bp-jc_ZHou4" title="Used Demolition Excavator 2016 Hyundai HX330L | equippo.com |" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" width="640" height="360" src="https://www.youtube-nocookie.com/embed/Bp-jc_ZHou4?autoplay=0&amp;mute=1&amp;controls=1&amp;disablekb=1&amp;modestbranding=1&amp;iv_load_policy=3&amp;loop=1&amp;rel=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fwww.machineseeker.com&amp;widgetid=12&amp;forigin=https%3A%2F%2Fwww.machineseeker.com%2Fmain%2Fsearch%2Findex%3Fsub-sub-category-ids%255B%255D%3D861%26main-category-ids%255B%255D%3D8%26sub-category-ids%255B%255D%3D105%26has-price%3D1%26countries%255B%255D%3DAT%26countries%255B%255D%3DBE%26countries%255B%255D%3DCH%26countries%255B%255D%3DCZ%26countries%255B%255D%3DDE%26countries%255B%255D%3DES%26countries%255B%255D%3DFR%26countries%255B%255D%3DLT%26countries%255B%255D%3DNL%26countries%255B%255D%3DPL%26countries%255B%255D%3DRO%26countries%255B%255D%3DSI%26countries%255B%255D%3DTR%26conditions%255B%255D%3Dused&amp;aoriginsup=1&amp;gporigin=https%3A%2F%2Fwww.machineseeker.com%2F&amp;vf=6"></iframe></div>        <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-01.jpg?v=1766358095" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-02.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-03.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-04.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-05.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-06.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-07.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-08.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-09.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-10.jpg?v=1766358095" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-11.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-12.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-13.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-14.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" aria-label="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/24/34/20810897-15.jpg?v=1766358096" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition Excavator Hyundai HX330L with demolition boom, standard boom &amp; shear">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="20810897" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(20810897,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20810897" onclick="inquiry.getForm(20810897,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-20810897" data-listingid="20810897" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208108971.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208108971.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="15 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="20810897" onclick="listingModal.getModal(20810897, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">15</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-fr" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="France" alt="France">
+                France    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            11,225 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Demolition Excavator</span> <br>
+            <span class="me-1">Hyundai</span>
+        <span>HX330L with demolition boom, standard boom &amp; shear</span>
+    </h2>
+</a>
+<div data-grid="seal">
+            <span class="trustsealLoad" role="button" data-id="73855" data-customer-widget="" onclick="frontend.register.loadModal(true)"><img class="trustseal--image--60" src="https://cdn.machineseeker.com/img/frontend/user/trustseal/inserat/icon_b_ms.svg?v=1763643660" alt="Certified Dealer" loading="lazy"></span>    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €165,000    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+         fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="20810897" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20810897,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20810897" onclick="inquiry.getForm(20810897,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '73855',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '20810897',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('20810897','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="20810897">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="20810897" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-20810897-1" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(20810897, 1, 0, 1)">
+        <div>
+            <div class="collapse long-description-20810897-1 description-preview show fs-7">
+                Condition: <b>used</b>, Year of construction: <b>2016</b>, operating hours: <b>4,589 h</b>, 2016 | Hyundai HX330L with demolition boom, standard boom &amp; shear  | Used Demolition Excavator | 4589 hours
+
+📍Location: France, Corcelles-en-Beaujolais
+🚛 Delivery available to your destination – Use our shipping calculator to estimate transport costs!
+  
+Bcoc Uhxjx Ndfvozdcow
+💰 Buy Now for EUR 165000 or Make an Offer. 
+Payment at delivery available for an affordable fee (subject to approval)*
+
+👷‍♂️ Inspected by an independent expert
+68 inspection points 68 approved ✅ 0 imperfect ℹ️ 0 issues ⚠️
+📌 Inspector's Comment:  
+Machine was in good working order at time of inspection it has Small boom 4.30 stick3.20 large boom size in the inspection is all so fitted with air compressor which blows air in front of the main window screen to clear dust is fitted with rock guards on roof and front screen. New hydraulic pump changed 100 hours ago.
+
+📄 Want to see the full inspection, extra photos, or a video?
+Tip: The reference "35653 Equippo" is commonly used when looking up more details online.
+
+💡 Why this machine and our service stands out:
+✔ Thorough inspection by professionals
+✔ Jobsite delivery available
+✔ Money-Back Guaranteed 
+✔ Secure and flexible payment options
+
+🔄 Considering other equipment options?
+We offer helpful tools and resources for all equipment owners and operators – easily accessible on our platform.            </div>
+            <div class="collapse long-description-20810897-1 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-20810897-1 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="20810897" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20810897,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20810897" onclick="inquiry.getForm(20810897,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/hyundai-hx330l+with+demolition+boom%2C+standard+boom+%26+shear/i-20810897" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                                        
+                    
+
+<section id="section-20891197-2" data-listing-id="20891197" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-20891197-2" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="20891197" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208911972.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208911972.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel208911972" class="keen-slider">        <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-01.jpg?v=1767856638" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-02.jpg?v=1767856638" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-03.jpg?v=1767856638" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-04.jpg?v=1767856638" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-05.jpg?v=1767856638" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450-8/i-20891197" aria-label="Demolition excavator Komatsu PC450-8">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/93/40/20891197-06.jpg?v=1767856639" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450-8">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="20891197" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(20891197,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20891197" onclick="inquiry.getForm(20891197,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-20891197" data-listingid="20891197" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208911972.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel208911972.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="6 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="20891197" onclick="listingModal.getModal(20891197, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">6</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-tr" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="Turkey" alt="Turkey">
+                Susuz    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            13,106 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/komatsu-pc450-8/i-20891197" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Demolition excavator</span> <br>
+            <span class="me-1">Komatsu</span>
+        <span>PC450-8</span>
+    </h2>
+</a>
+<div data-grid="seal">
+    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/komatsu-pc450-8/i-20891197">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €255,000    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+        EXW fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="20891197" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20891197,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20891197" onclick="inquiry.getForm(20891197,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '502760',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '20891197',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('20891197','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="20891197">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="20891197" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-20891197-2" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(20891197, 2, 0, 1)">
+        <div>
+            <div class="collapse long-description-20891197-2 description-preview show fs-7">
+                Condition: <b>like new (used)</b>, Year of construction: <b>2025</b>, Komatsu PC450-8 Demolition Excavator
+Total Length: 27meters
+3 pieces boom-arm, hydraulic shear are new
+Counter weight and cab lifting
+2012 model -- 13994hours
+The machine is reconditioned by authorised Komatsu service
+Bcsc Uhxsx Svv Sezdcew            </div>
+            <div class="collapse long-description-20891197-2 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-20891197-2 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="20891197" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(20891197,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="20891197" onclick="inquiry.getForm(20891197,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/komatsu-pc450-8/i-20891197" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                            
+    
+<div id="invite-card-horizontal" class="d-flex flex-column flex-md-row position-relative">
+    <div data-name="background"></div>
+    <div data-name="image">
+        <picture>
+                    <source srcset="https://cdn.machineseeker.com/img/frontend/banner/horizontal/sm/1.jpg">
+        <img loading="lazy" src="https://cdn.machineseeker.com/img/frontend/banner/horizontal/sm/1.jpg" alt="tariff-banner" width="" height="" class="tariff-image">
+</picture>
+    </div>
+    <div data-name="content" class="px-4">
+        <div data-name="text" class="">
+            <a target="_blank" data-tracking="seller-listbanner" data-variant="seller-1" href="/tariffs/" class="text-white text-decoration-none">
+                <div class="h5 fs-sm-6 my-3 d-none d-sm-block">
+                                Sell used machines now                    </div>
+                <div class="py-3">
+                    <div class="h4 fw-bold fs-sm-6">
+                        List now from €4.49<span class="fw-normal">*</span> <br>
+                        <strong>11 million</strong> buyers are waiting for you
+                    </div>
+                </div>
+            </a>
+        </div>
+        <div class="d-md-flex justify-content-between align-items-center">
+            <div data-name="call" class="d-none d-md-block">
+                Get information now<br>
+                <span class="fw-normal">
+            <i class="fa-solid fa-phone"></i>
+            +44 20 806 810 84        </span>
+            </div>
+            <div data-name="buttons" class="mt-3">
+                <a target="_blank" href="/tariffs/" data-tracking="seller-listbanner" data-variant="seller-1" class="btn btn-cta btn-block d-lg-block">
+                    List now                </a>
+                <div class="fs-8 float-start opacity-60">
+                    *per listing / month                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                                                        
+                    
+
+<section id="section-18624076-3" data-listing-id="18624076" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-18624076-3" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="18624076" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel186240763.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel186240763.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel186240763" class="keen-slider">        <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-01.jpg?v=1750063175" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-02.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-03.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-04.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-05.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-06.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-07.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-08.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-09.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-10.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-11.jpg?v=1750063177" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-12.jpg?v=1750063176" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-13.jpg?v=1750063177" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" aria-label="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/00/52/18624076-14.jpg?v=1750063177" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Demolition excavator Komatsu PC450 27meters Demolition Boom-Arm">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="18624076" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(18624076,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="18624076" onclick="inquiry.getForm(18624076,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-18624076" data-listingid="18624076" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel186240763.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel186240763.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="14 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="18624076" onclick="listingModal.getModal(18624076, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">14</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-tr" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="Turkey" alt="Turkey">
+                Susuz    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            13,106 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Demolition excavator</span> <br>
+            <span class="me-1">Komatsu</span>
+        <span>PC450 27meters Demolition Boom-Arm</span>
+    </h2>
+</a>
+<div data-grid="seal">
+    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €195,000    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+        EXW fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="18624076" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(18624076,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="18624076" onclick="inquiry.getForm(18624076,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '502760',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '18624076',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('18624076','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="18624076">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="18624076" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-18624076-3" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(18624076, 3, 0, 1)">
+        <div>
+            <div class="collapse long-description-18624076-3 description-preview show fs-7">
+                Condition: <b>ready for operation (used)</b>, functionality: <b>fully functional</b>, power: <b>246 kW (334.47 HP)</b>, overall weight: <b>55,000 kg</b>, Year of construction: <b>2024</b>, operating hours: <b>16,300 h</b>, machine/vehicle number: <b>KMTP0087T02020305</b>, Komatsu PC450 2005model 16300hours 27meters boom-arm €195.000 (3 pieces boom and shear are new)
+Production date of the boom-arm and shear: 2024
+The machine is reconditioned by authorized Komatsu service
+Bec Uhxzdov Enwpscscw
+
+This machine is reliable operation in CONFLICT and WAR ZONE conditions. Since all maintenance has been recently completed, it will require no additional effort on the demolition site            </div>
+            <div class="collapse long-description-18624076-3 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-18624076-3 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="18624076" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(18624076,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="18624076" onclick="inquiry.getForm(18624076,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/komatsu-pc450+27meters+demolition+boom-arm/i-18624076" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                                        
+                    
+
+<section id="section-13039628-4" data-listing-id="13039628" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-13039628-4" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="13039628" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel130396284.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel130396284.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel130396284" class="keen-slider">        <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/m-m/i-13039628" aria-label="Komatsu PC390 Demolition Machine  ">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/63/86/13039628-01.jpg?v=1696861900" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Komatsu PC390 Demolition Machine  ">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/m-m/i-13039628" aria-label="Komatsu PC390 Demolition Machine  ">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/63/86/13039628-02.jpg?v=1696861900" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Komatsu PC390 Demolition Machine  ">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/m-m/i-13039628" aria-label="Komatsu PC390 Demolition Machine  ">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/63/86/13039628-03.jpg?v=1696861899" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Komatsu PC390 Demolition Machine  ">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/m-m/i-13039628" aria-label="Komatsu PC390 Demolition Machine  ">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/63/86/13039628-04.jpg?v=1696861899" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Komatsu PC390 Demolition Machine  ">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="13039628" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(13039628,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13039628" onclick="inquiry.getForm(13039628,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-13039628" data-listingid="13039628" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel130396284.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel130396284.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="4 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="13039628" onclick="listingModal.getModal(13039628, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">4</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-tr" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="Turkey" alt="Turkey">
+                Susuz    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            13,106 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/m-m/i-13039628" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Komatsu PC390 Demolition Machine</span> <br>
+        <span></span>
+    </h2>
+</a>
+<div data-grid="seal">
+    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/m-m/i-13039628">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €258,500    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+        EXW fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="13039628" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(13039628,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13039628" onclick="inquiry.getForm(13039628,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '502760',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '13039628',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('13039628','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="13039628">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="13039628" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-13039628-4" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(13039628, 4, 0, 1)">
+        <div>
+            <div class="collapse long-description-13039628-4 description-preview show fs-7">
+                Year of construction: <b>2016</b>, operating hours: <b>14,300 h</b>, condition: <b>reconditioned (used)</b>, Maintenance has been done by authorized Komatsu service.
+The machine can be inspected on site
+Bjc Uhopq Tapoxzdcecw
+27meter reach            </div>
+            <div class="collapse long-description-13039628-4 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-13039628-4 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="13039628" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(13039628,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13039628" onclick="inquiry.getForm(13039628,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/m-m/i-13039628" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                                                        
+                                                        
+    <button onclick="searchagent.openSearchagentModal(event)" type="button" class="position-sticky d-block mx-auto btn fw-bold z-index-fixed my-1 btn-warning text-dark" style="bottom: 1.75rem;">
+        <i class="fa-solid fa-paper-plane fa-sm"></i>
+        Save search query    </button>
+
+<div class="modal fade news-subscription" id="saveSearchModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="h4 modal-title">
+                                            We make the search easier for you                                    </p>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-status">
+                    <p>
+                        <i class="fa-solid fa-check fa-sm text-success"></i> You will receive new offers immediately and free of charge via e-mail                        <br>
+                        <i class="fa-solid fa-check fa-sm text-success"></i> You can easily terminate the search request at any time                    </p>
+                </div>
+                
+<div id="p0" data-pjax-container="" data-pjax-timeout="1000"><form id="searchagent-modal-form" action="/search/searchagent/new" method="post" data-pjax="">
+<input type="hidden" name="_csrf" value="X-3r5ObH8-gXlI7zJrz1nG7BwfOcUQXxfrSuR9LFTwI0t4jXqfKbrybT3rt__8b3BfL0ouUGQ5cmg9kW4IMuMQ==">
+
+<div class="row">
+    <div class="col-12">
+        <div class="row">
+            <div class="input-mail-address col-12 col-md-12">
+                <label>
+                                            Your e-mail address: *                                    </label>
+                <div class="mb-3 field-searchagentform-email">
+
+<input type="email" id="searchagentform-email" class="form-control form-control-sm" name="SearchAgentForm[email]" value="guillermoandrada@gmail.com" required="required">
+
+<div class="invalid-feedback"></div>
+</div>
+                <div class="mb-3 field-searchagentform-customernumber">
+
+<input type="hidden" id="searchagentform-customernumber" class="form-control" name="SearchAgentForm[customerNumber]">
+
+<div class="invalid-feedback"></div>
+</div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn mt-2 btn-cta">
+                        <i class="fa-solid fa-paper-plane fa-sm"></i> Save search query                    </button>
+                </div>
+                <hr>
+                <small>
+                    Under no circumstances we will share your e-mail address with third parties. Please also note our <a href="/privacy/">privacy policy</a>.                </small>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row d-none">
+    <div class="mb-3 field-searchagentform-initialresultcount">
+
+<input type="hidden" id="searchagentform-initialresultcount" class="form-control" name="SearchAgentForm[initialResultCount]" value="5">
+
+<div class="invalid-feedback"></div>
+</div>    <div class="mb-3 field-searchagentform-aboname">
+
+<input type="hidden" id="searchagentform-aboname" class="form-control" name="SearchAgentForm[aboName]" value="All listings in demolition excavators">
+
+<div class="invalid-feedback"></div>
+</div>                    <div class="mb-3 field-customerNumber-searchagent">
+
+<input type="hidden" id="customerNumber-searchagent" class="form-control" name="customerNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-listingId-searchagent">
+
+<input type="hidden" id="listingId-searchagent" class="form-control" name="listingId">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturedFrom-searchagent">
+
+<input type="hidden" id="manufacturedFrom-searchagent" class="form-control" name="manufacturedFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturedTo-searchagent">
+
+<input type="hidden" id="manufacturedTo-searchagent" class="form-control" name="manufacturedTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-priceFrom-searchagent">
+
+<input type="hidden" id="priceFrom-searchagent" class="form-control" name="priceFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-priceTo-searchagent">
+
+<input type="hidden" id="priceTo-searchagent" class="form-control" name="priceTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-creationDateFrom-searchagent">
+
+<input type="hidden" id="creationDateFrom-searchagent" class="form-control" name="creationDateFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-creationDateTo-searchagent">
+
+<input type="hidden" id="creationDateTo-searchagent" class="form-control" name="creationDateTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-searchWord-searchagent">
+
+<input type="hidden" id="searchWord-searchagent" class="form-control" name="searchWord">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-sortField-searchagent">
+
+<input type="hidden" id="sortField-searchagent" class="form-control" name="sortField">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-sortDirection-searchagent">
+
+<input type="hidden" id="sortDirection-searchagent" class="form-control" name="sortDirection">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-machineNumber-searchagent">
+
+<input type="hidden" id="machineNumber-searchagent" class="form-control" name="machineNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-referenceNumber-searchagent">
+
+<input type="hidden" id="referenceNumber-searchagent" class="form-control" name="referenceNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-machineType-searchagent">
+
+<input type="hidden" id="machineType-searchagent" class="form-control" name="machineType">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-description-searchagent">
+
+<input type="hidden" id="description-searchagent" class="form-control" name="description">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-radius-searchagent">
+
+<input type="hidden" id="radius-searchagent" class="form-control" name="radius" value="">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturerFilter-searchagent">
+
+<input type="hidden" id="manufacturerFilter-searchagent" class="form-control" name="manufacturerFilter">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-modelFilter-searchagent">
+
+<input type="hidden" id="modelFilter-searchagent" class="form-control" name="modelFilter">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-latitude-searchagent">
+
+<input type="hidden" id="latitude-searchagent" class="form-control" name="latitude" value="-31.987576">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-longitude-searchagent">
+
+<input type="hidden" id="longitude-searchagent" class="form-control" name="longitude" value="-68.426628">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-withImages-searchagent">
+
+<input type="hidden" id="withImages-searchagent" class="form-control" name="withImages">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-withVideo-searchagent">
+
+<input type="hidden" id="withVideo-searchagent" class="form-control" name="withVideo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isRental-searchagent">
+
+<input type="hidden" id="isRental-searchagent" class="form-control" name="isRental">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isStandard-searchagent">
+
+<input type="hidden" id="isStandard-searchagent" class="form-control" name="isStandard">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuction-searchagent">
+
+<input type="hidden" id="isAuction-searchagent" class="form-control" name="isAuction">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuctionBidding-searchagent">
+
+<input type="hidden" id="isAuctionBidding-searchagent" class="form-control" name="isAuctionBidding">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuctionClickout-searchagent">
+
+<input type="hidden" id="isAuctionClickout-searchagent" class="form-control" name="isAuctionClickout">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isBuyNow-searchagent">
+
+<input type="hidden" id="isBuyNow-searchagent" class="form-control" name="isBuyNow">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isSpareParts-searchagent">
+
+<input type="hidden" id="isSpareParts-searchagent" class="form-control" name="isSpareParts">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isShown-searchagent">
+
+<input type="hidden" id="isShown-searchagent" class="form-control" name="isShown" value="1">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isPaused-searchagent">
+
+<input type="hidden" id="isPaused-searchagent" class="form-control" name="isPaused">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isUnlocked-searchagent">
+
+<input type="hidden" id="isUnlocked-searchagent" class="form-control" name="isUnlocked">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-strictSearch-searchagent">
+
+<input type="hidden" id="strictSearch-searchagent" class="form-control" name="strictSearch">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-hasTrustseal-searchagent">
+
+<input type="hidden" id="hasTrustseal-searchagent" class="form-control" name="hasTrustseal">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-hasPrice-searchagent">
+
+<input type="hidden" id="hasPrice-searchagent" class="form-control" name="hasPrice" value="1">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isActiveVisible-searchagent">
+
+<input type="hidden" id="isActiveVisible-searchagent" class="form-control" name="isActiveVisible">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isPending-searchagent">
+
+<input type="hidden" id="isPending-searchagent" class="form-control" name="isPending">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-usePriceGross-searchagent">
+
+<input type="hidden" id="usePriceGross-searchagent" class="form-control" name="usePriceGross" value="">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-maincategoryids">
+<label class="form-label">Main Category Ids</label>
+<input type="hidden" name="mainCategoryIds" value=""><div id="maincategoryids"><div class="form-check">
+<input type="checkbox" id="i62" class="form-check-input" name="mainCategoryIds[]" value="8" checked="">
+<label class="form-check-label" for="i62">8</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-subcategoryids">
+<label class="form-label">Sub Category Ids</label>
+<input type="hidden" name="subCategoryIds" value=""><div id="subcategoryids"><div class="form-check">
+<input type="checkbox" id="i63" class="form-check-input" name="subCategoryIds[]" value="105" checked="">
+<label class="form-check-label" for="i63">105</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-subsubcategoryids">
+<label class="form-label">Sub Sub Category Ids</label>
+<input type="hidden" name="subSubCategoryIds" value=""><div id="subsubcategoryids"><div class="form-check">
+<input type="checkbox" id="i64" class="form-check-input" name="subSubCategoryIds[]" value="861" checked="">
+<label class="form-check-label" for="i64">861</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-manufacturers-searchagent">
+
+<input type="hidden" id="manufacturers-searchagent" class="form-control" name="manufacturers">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-models-searchagent">
+
+<input type="hidden" id="models-searchagent" class="form-control" name="models">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-countries">
+<label class="form-label">Countries</label>
+<input type="hidden" name="countries" value=""><div id="countries"><div class="form-check">
+<input type="checkbox" id="i65" class="form-check-input" name="countries[]" value="AT" checked="">
+<label class="form-check-label" for="i65">AT</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i66" class="form-check-input" name="countries[]" value="BE" checked="">
+<label class="form-check-label" for="i66">BE</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i67" class="form-check-input" name="countries[]" value="CH" checked="">
+<label class="form-check-label" for="i67">CH</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i68" class="form-check-input" name="countries[]" value="CZ" checked="">
+<label class="form-check-label" for="i68">CZ</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i69" class="form-check-input" name="countries[]" value="DE" checked="">
+<label class="form-check-label" for="i69">DE</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i70" class="form-check-input" name="countries[]" value="ES" checked="">
+<label class="form-check-label" for="i70">ES</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i71" class="form-check-input" name="countries[]" value="FR" checked="">
+<label class="form-check-label" for="i71">FR</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i72" class="form-check-input" name="countries[]" value="LT" checked="">
+<label class="form-check-label" for="i72">LT</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i73" class="form-check-input" name="countries[]" value="NL" checked="">
+<label class="form-check-label" for="i73">NL</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i74" class="form-check-input" name="countries[]" value="PL" checked="">
+<label class="form-check-label" for="i74">PL</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i75" class="form-check-input" name="countries[]" value="RO" checked="">
+<label class="form-check-label" for="i75">RO</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i76" class="form-check-input" name="countries[]" value="SI" checked="">
+<label class="form-check-label" for="i76">SI</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i77" class="form-check-input" name="countries[]" value="TR" checked="">
+<label class="form-check-label" for="i77">TR</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-conditions">
+<label class="form-label">Conditions</label>
+<input type="hidden" name="conditions" value=""><div id="conditions"><div class="form-check">
+<input type="checkbox" id="i78" class="form-check-input" name="conditions[]" value="used" checked="">
+<label class="form-check-label" for="i78">used</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-regions-searchagent">
+
+<input type="hidden" id="regions-searchagent" class="form-control" name="regions">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-properties-searchagent">
+
+<input type="hidden" id="properties-searchagent" class="form-control" name="properties">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+
+</form></div>            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                    </div>

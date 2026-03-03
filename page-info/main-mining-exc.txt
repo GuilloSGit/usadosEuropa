@@ -1,0 +1,620 @@
+<div class="col mt-0 d-flex flex-column row-gap-3">
+                                                
+                    
+
+<section id="section-13327714-0" data-listing-id="13327714" class="shadow-sm grid-card grid-card-border">
+    
+<div class="type-tag-wrap">
+    <div class="type-tag">
+                Listing    </div>
+</div>
+    <section class="grid-image">
+        
+<div class="images position-relative" data-grid="image">
+
+    
+    
+            
+
+<div id="listing-13327714-0" class="list-slide border-md-top border-md-bottom border-md-left border-md-right bg-gray-235 rounded-top" data-listing-id="13327714" data-listing-type="standard">
+
+    <div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel133277140.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-up fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);left: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel133277140.prev()" aria-label="Previous"><i class="fa-solid fa-chevron-left fa-lg"></i></button><div class="col-12 text-center"><div id="listingCarousel133277140" class="keen-slider">        <div class="keen-slider__slide lazy__slide ratio ratio-4x3 active keen-active" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/leh-a+1.4/i-13327714" aria-label="Excavator LEH A 1.4">
+                    <img loading="lazy" src="https://cdn.machineseeker.com/data/listing/img/vga/ms/64/10/13327714-01.jpg?v=1698102332" class="img-fluid first-image mh-100 mw-100" style="object-fit: contain" alt="Excavator LEH A 1.4">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/leh-a+1.4/i-13327714" aria-label="Excavator LEH A 1.4">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/64/10/13327714-02.jpg?v=1698102332" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Excavator LEH A 1.4">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/leh-a+1.4/i-13327714" aria-label="Excavator LEH A 1.4">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/64/10/13327714-03.jpg?v=1698102332" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Excavator LEH A 1.4">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/leh-a+1.4/i-13327714" aria-label="Excavator LEH A 1.4">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/64/10/13327714-04.jpg?v=1698102332" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Excavator LEH A 1.4">
+                </a></div><div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);"><a class="d-flex justify-content-center" target="_self" href="/leh-a+1.4/i-13327714" aria-label="Excavator LEH A 1.4">
+                    <img loading="lazy" src="" data-src="https://cdn.machineseeker.com/data/listing/img/vga/ms/64/10/13327714-05.jpg?v=1698102333" class="img-fluid first-image embed-responsive-item" style="object-fit: contain" alt="Excavator LEH A 1.4">
+                </a></div>    <div class="keen-slider__slide lazy__slide ratio ratio-4x3" style="min-width: 275.594px; max-width: 275.594px; transform: translate3d(0px, 0px, 0px);">
+<div class="m-auto text-center d-flex justify-content-center flex-column more-images printArea bg-light p-1 p-md-5 h-100">
+    <div class="d-flex  justify-content-between flex-column align-items-center w-100 h-100  m-auto ">
+        <div class="h-75 d-flex justify-content-center w-100">
+            <img loading="lazy" class="img-fluid w-100" width="240" height="120" alt="more images" src="https://cdn.machineseeker.com/img/frontend/inserat/content/icon_more_pictures_b_ms.svg?v=1763643660">
+        </div>
+        <div class="h-25">
+            
+<button type="button" class="btn btn-primary btn-sm " data-inquiry-btn="13327714" data-inquiry-message-type="MORE_IMAGES" onclick="inquiry.getForm(13327714,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Request more images    </span>
+    <span class="d-none d-md-inline">
+        Request more images    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13327714" onclick="inquiry.getForm(13327714,&quot;MORE_IMAGES&quot;,&quot;btn-cta&quot;,&quot;Request more images&quot;,&quot;fa-envelope&quot;,&quot;Request more images&quot;,false,&quot;MORE_IMAGES_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+        </div>
+        <div id="getInquiryForm-13327714" data-listingid="13327714" data-messagetype="MORE_IMAGES" data-button="btn btn-cta btn-lg" data-buttontext="Request more images" data-buttonicon="fa-envelope" data-formtitle="Request more images" data-redirect="" data-eventsource="MORE_IMAGES_INQUIRY" data-eventcontext="LISTING_LIST" data-listingtype="" data-actionpath="/inquiry/listing-inquiry/submit" data-validationpath="/inquiry/listing-inquiry/validate" data-revokepath="/inquiry/listing-inquiry/revoke" data-maincategory="8_Baumaschinen">
+        </div>
+    </div>
+</div>
+</div></div></div><button type="button" class="d-none col-12 btn-keen-slider-vertical position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel133277140.next()" aria-label="Next"><i class="fa-solid fa-chevron-down fa-lg"></i></button><button type="button" class="col-auto btn-keen-slider-horizontal position-absolute btn btn-link p-0 text-white" style="z-index: 100;top: 50%;transform: translate(0px, -50%);right: 10px;text-shadow: 1px 1px 5px black;" onclick="keenSliderListingCarousel133277140.next()" aria-label="Next"><i class="fa-solid fa-chevron-right fa-lg"></i></button></div>
+    
+    <button class="ajax-image-modal image-zoom col-auto mt-auto border bg-light shadow text-dark py-1 px-2 position-absolute z-index-toasts border-search" aria-label="5 gallery pictures" style="right: 0;bottom: 0;" data-index="0" data-listing-id="13327714" onclick="listingModal.getModal(13327714, 'LISTING_LIST', '8_Baumaschinen', $(this).data('index'), 0)">
+        <i class="fa-solid fa-magnifying-glass-plus pe-1"></i>
+        <span class="current-thumbnail">1</span>
+        / <span class="total-thumbnails">5</span>
+    </button>
+</div>    
+</div>
+
+
+
+            </section>
+    <section class="grid-body">
+        
+<div class="trader-location border-md-top pt-0 pt-md-3 fs-8" data-grid="location">
+    <div class="country-name">
+                    <img loading="lazy" class="flag24 flag24-de" src="https://cdn.machineseeker.com/img/frontend/main/flags/blank24.png?v=1763643660" title="Germany" alt="Germany">
+                Korschenbroich    </div>
+            <div class="distance">
+            <i class="fa-solid fa-flag fa-sm text-muted"></i>
+            11,795 km            <i role="button" class="fa-solid fa-circle-question text-muted" aria-label="Question mark" data-bs-toggle="popover" data-bs-trigger="hover" data-bs-placement="top" data-bs-html="true" data-bs-content="Estimated distance (as the crow flies) based on your automatically detected location: 337, Ángel Dolores Rojas, Loteo Ballester, Villa Media Agua, Sarmiento, San Juan, 5435, Argentina">
+            </i>
+        </div>
+    </div>
+
+
+<a class="d-flex flex-column text-decoration-none mb-2" data-grid="title" href="/leh-a+1.4/i-13327714" target="_self">
+    <h2 class="h5 m-0 text-dark fw-bold break-word">
+    <span class="text-gray-100 fs-6 fw-normal">Excavator</span> <br>
+            <span class="me-1">LEH</span>
+        <span>A 1.4</span>
+    </h2>
+</a>
+<div data-grid="seal">
+            <span class="trustsealLoad" role="button" data-id="42249" data-customer-widget="" onclick="frontend.register.loadModal(true)"><img class="trustseal--image--60" src="https://cdn.machineseeker.com/img/frontend/user/trustseal/inserat/icon_b_ms.svg?v=1763643660" alt="Certified Dealer" loading="lazy"></span>    </div>
+<div class="price" data-grid="price">
+    <a class="text-dark text-decoration-none text-end" aria-label="Price" href="/leh-a+1.4/i-13327714">
+        
+    <div class="text-dark h4 m-0  fw-bold">
+    <span>
+        €3,900    </span>
+    </div>
+    <div class="fs-8 text-gray-100">
+         fixed price plus VAT    </div>
+    </a>
+</div>
+
+<div class="button mt-2" data-grid="button">
+    
+<button type="button" class="btn btn-cta shadow-sm btn-block align-self-stretch " data-inquiry-btn="13327714" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(13327714,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Inquire    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13327714" onclick="inquiry.getForm(13327714,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+            
+<span class="btn btn-stretch d-block d-md-none shadow-sm btn-primary" data-tracking="tel" data-category="8_Baumaschinen" data-hide="phonecall" onclick="track.numberClicked(
+          '42249',
+          'CALLED',
+          'FIXED_LINE',
+          'SEARCH_RESULTS',
+          frontend.bootstrap.detectBreakpoint().name,
+          '13327714',
+          '/listing/display/number-clicked',
+                );
+      inquiry.getForm('13327714','CALLBACK','btn-cta mt-3 shadow-lg','Request for callback','fa-envelope','Request for callback','false','CALL_BACK','LISTING_LIST','/inquiry/listing-inquiry/submit','/inquiry/listing-inquiry/validate','/inquiry/listing-inquiry/revoke','false','true','8_Baumaschinen')" data-listing-id="13327714">
+    <i class="fa-solid fa-phone me-1"></i>
+    Call</span>
+    </div>    <div data-grid="icon">
+                    
+<div class="watchlist-link  cursor-pointer" data-listing-id="13327714" data-bs-target="#watchlistmodal" data-ajax-target="#watchlist-pjax" data-category="8_Baumaschinen" data-favored-title="Remove from watchlist" data-non-favored-title="Save to watchlist" data-action-save="/main/favorites/save" data-action-delete="/main/favorites/delete" onclick="if(typeof listingList !== 'undefined' &amp;&amp; !$(this).hasClass('favored')){listingList.setEngagementPosition(this)}
+                    favorites.toggleListingFavorite(this);">
+            <div class="watchlist-popover" data-bs-container="body" data-bs-animation="false" data-bs-trigger="manual" data-bs-template="&lt;div class=&quot;d-xl-block popover popover-watchlist d-none&quot; style=&quot;height:fit-content&quot; role=&quot;tooltip&quot;&gt;&lt;div class=&quot;popover-arrow&quot;&gt;&lt;/div&gt;&lt;div class=&quot;popover-body px-3 py-2 &quot;&gt;&lt;/div&gt;&lt;/div&gt;" data-bs-html="true" data-bs-toggle="popover" data-bs-placement="auto" data-bs-content="
+&lt;div class='p-0 modal-header pb-2'&gt;
+    Listings on your watchlist are only saved temporarily.    &lt;button type='button' class='btn-close close-popover' onclick='favorites.closePopover(this)' aria-label='Close'&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;p class='pt-2 font-weight-bold'&gt;
+    Create a free user account now:&lt;/p&gt;
+
+&lt;ol class='pl-5' style=' list-style-type: none'&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Synchronize watchlist    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Exclusive special offers    &lt;/li&gt;
+    &lt;li&gt;
+        &lt;i class='fa-solid fa-check text-center px-2 text-cta'&gt;&lt;/i&gt;
+        Bid at auctions    &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class='text-center'&gt;
+    &lt;button class='btn btn-cta mb-2'
+            data-tracking='prospect-register-modal-open' onclick='favorites.loadRegisterModal()'&gt;
+        &lt;i class='fa-solid fa-address-card mr-2'&gt;&lt;/i&gt; Register for free&lt;/button&gt;
+    &lt;p class='text-center'&gt;
+        Already have an account?        &lt;a href='/account/security/login'
+           class='text-cta-link'&gt;&lt;u&gt;Log in now&lt;/u&gt;
+        &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/div&gt;
+
+
+">
+        </div>
+    
+            <button class="btn p-0" data-bs-toggle="tooltip" type="button" aria-label="Save to watchlist" data-bs-original-title="Save to watchlist">
+            <i class="watchlist-icon" data-tracking="observe-save"></i>
+        </button>
+    
+</div>
+            </div>
+    </section>
+
+            <section class="grid-footer">
+            
+    <div id="description-13327714-0" data-grid="more" class="pb-0 cursor-pointer" onclick="if($(event.target).closest('.login-needed-alert').length &gt; 0) {return;}
+             listingList.loadDescription(13327714, 0, 0, 1)">
+        <div>
+            <div class="collapse long-description-13327714-0 description-preview show fs-7">
+                Condition: <b>used</b>, Year of construction: <b>2010</b>, content . cbm
+Bcsc Uhxzdep A Dncecjw
+power requirement . kW
+bolt-diameter 66 mm
+Swivel bucket We used the bucket on our 16-ton excavator for excavation work. Suitable for excavators up to a maximum of 22 tons. Not worn.            </div>
+            <div class="collapse long-description-13327714-0 description-content">
+                <div class="content">
+                </div>
+                            </div>
+        </div>
+        <button class="btn mx-auto d-block btn-sm" data-aria-label-close="Collapse text" data-aria-label-open="Fold out text" aria-label="Fold out text">
+            <i class="fa-solid fa-chevron-down"></i>
+        </button>
+    </div>
+
+    <div class="p-3 bg-gray-245 long-description-13327714-0 collapse" style="border-bottom-right-radius: 0.375rem;
+border-bottom-left-radius: 0.375rem;">
+        <div class="d-flex flex-wrap gap-2">
+                                                
+<button type="button" class="btn btn btn-cta " data-inquiry-btn="13327714" data-inquiry-message-type="INQUIRY" onclick="inquiry.getForm(13327714,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+            <i class="fa-solid fa-envelope"></i>
+        <span class="d-md-none">
+        Send inquiry    </span>
+    <span class="d-none d-md-inline">
+        Send inquiry    </span>
+</button>
+
+<button type="button" class="btn btn-outline-success shadow-sm already-requested d-none      " data-inquiry-btn="13327714" onclick="inquiry.getForm(13327714,&quot;INQUIRY&quot;,&quot;btn-cta&quot;,&quot;Send inquiry&quot;,&quot;fa-envelope&quot;,&quot;Send inquiry&quot;,false,&quot;LIST_COLLAPSE_INQUIRY&quot;,&quot;LISTING_LIST&quot;,&quot;\/inquiry\/listing-inquiry\/submit&quot;,&quot;\/inquiry\/listing-inquiry\/validate&quot;,&quot;\/inquiry\/listing-inquiry\/revoke&quot;,false,false,&quot;8_Baumaschinen&quot;)">
+    <i class="fa-solid fa-circle-check"></i>
+            Already requested    </button>
+                                        <a href="/leh-a+1.4/i-13327714" class="btn btn-light border-gray-45">
+                <i class="fa-solid fa-clipboard-list"></i>
+                See details            </a>
+                    </div>
+    </div>
+
+        </section>
+    </section>
+
+
+
+
+
+
+                                                                        
+                                                        
+    <button onclick="searchagent.openSearchagentModal(event)" type="button" class="position-sticky d-block mx-auto btn fw-bold z-index-fixed my-1 btn-warning text-dark" style="bottom: 1.75rem;">
+        <i class="fa-solid fa-paper-plane fa-sm"></i>
+        Save search query    </button>
+
+<div class="modal fade news-subscription" id="saveSearchModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <p class="h4 modal-title">
+                                            We make the search easier for you                                    </p>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-status">
+                    <p>
+                        <i class="fa-solid fa-check fa-sm text-success"></i> You will receive new offers immediately and free of charge via e-mail                        <br>
+                        <i class="fa-solid fa-check fa-sm text-success"></i> You can easily terminate the search request at any time                    </p>
+                </div>
+                
+<div id="p0" data-pjax-container="" data-pjax-timeout="1000"><form id="searchagent-modal-form" action="/search/searchagent/new" method="post" data-pjax="">
+<input type="hidden" name="_csrf" value="O5Cv2FXSfDH3gyYnZM1UNxCAsohihbMj15oquq4M0jtQyszrGucUdsbEdm89jmdce7OH2RvS9UWPrV3rnEqzCA==">
+
+<div class="row">
+    <div class="col-12">
+        <div class="row">
+            <div class="input-mail-address col-12 col-md-12">
+                <label>
+                                            Your e-mail address: *                                    </label>
+                <div class="mb-3 field-searchagentform-email">
+
+<input type="email" id="searchagentform-email" class="form-control form-control-sm" name="SearchAgentForm[email]" value="guillermoandrada@gmail.com" required="required">
+
+<div class="invalid-feedback"></div>
+</div>
+                <div class="mb-3 field-searchagentform-customernumber">
+
+<input type="hidden" id="searchagentform-customernumber" class="form-control" name="SearchAgentForm[customerNumber]">
+
+<div class="invalid-feedback"></div>
+</div>
+                <div class="d-flex justify-content-center">
+                    <button type="submit" class="btn mt-2 btn-cta">
+                        <i class="fa-solid fa-paper-plane fa-sm"></i> Save search query                    </button>
+                </div>
+                <hr>
+                <small>
+                    Under no circumstances we will share your e-mail address with third parties. Please also note our <a href="/privacy/">privacy policy</a>.                </small>
+            </div>
+        </div>
+        <div class="row mt-3">
+            <div class="col">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row d-none">
+    <div class="mb-3 field-searchagentform-initialresultcount">
+
+<input type="hidden" id="searchagentform-initialresultcount" class="form-control" name="SearchAgentForm[initialResultCount]" value="1">
+
+<div class="invalid-feedback"></div>
+</div>    <div class="mb-3 field-searchagentform-aboname">
+
+<input type="hidden" id="searchagentform-aboname" class="form-control" name="SearchAgentForm[aboName]" value="All listings in mining excavators">
+
+<div class="invalid-feedback"></div>
+</div>                    <div class="mb-3 field-customerNumber-searchagent">
+
+<input type="hidden" id="customerNumber-searchagent" class="form-control" name="customerNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-listingId-searchagent">
+
+<input type="hidden" id="listingId-searchagent" class="form-control" name="listingId">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturedFrom-searchagent">
+
+<input type="hidden" id="manufacturedFrom-searchagent" class="form-control" name="manufacturedFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturedTo-searchagent">
+
+<input type="hidden" id="manufacturedTo-searchagent" class="form-control" name="manufacturedTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-priceFrom-searchagent">
+
+<input type="hidden" id="priceFrom-searchagent" class="form-control" name="priceFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-priceTo-searchagent">
+
+<input type="hidden" id="priceTo-searchagent" class="form-control" name="priceTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-creationDateFrom-searchagent">
+
+<input type="hidden" id="creationDateFrom-searchagent" class="form-control" name="creationDateFrom">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-creationDateTo-searchagent">
+
+<input type="hidden" id="creationDateTo-searchagent" class="form-control" name="creationDateTo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-searchWord-searchagent">
+
+<input type="hidden" id="searchWord-searchagent" class="form-control" name="searchWord">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-sortField-searchagent">
+
+<input type="hidden" id="sortField-searchagent" class="form-control" name="sortField">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-sortDirection-searchagent">
+
+<input type="hidden" id="sortDirection-searchagent" class="form-control" name="sortDirection">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-machineNumber-searchagent">
+
+<input type="hidden" id="machineNumber-searchagent" class="form-control" name="machineNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-referenceNumber-searchagent">
+
+<input type="hidden" id="referenceNumber-searchagent" class="form-control" name="referenceNumber">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-machineType-searchagent">
+
+<input type="hidden" id="machineType-searchagent" class="form-control" name="machineType">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-description-searchagent">
+
+<input type="hidden" id="description-searchagent" class="form-control" name="description">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-radius-searchagent">
+
+<input type="hidden" id="radius-searchagent" class="form-control" name="radius" value="">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-manufacturerFilter-searchagent">
+
+<input type="hidden" id="manufacturerFilter-searchagent" class="form-control" name="manufacturerFilter">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-modelFilter-searchagent">
+
+<input type="hidden" id="modelFilter-searchagent" class="form-control" name="modelFilter">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-latitude-searchagent">
+
+<input type="hidden" id="latitude-searchagent" class="form-control" name="latitude" value="-31.987576">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-longitude-searchagent">
+
+<input type="hidden" id="longitude-searchagent" class="form-control" name="longitude" value="-68.426628">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-withImages-searchagent">
+
+<input type="hidden" id="withImages-searchagent" class="form-control" name="withImages">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-withVideo-searchagent">
+
+<input type="hidden" id="withVideo-searchagent" class="form-control" name="withVideo">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isRental-searchagent">
+
+<input type="hidden" id="isRental-searchagent" class="form-control" name="isRental">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isStandard-searchagent">
+
+<input type="hidden" id="isStandard-searchagent" class="form-control" name="isStandard">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuction-searchagent">
+
+<input type="hidden" id="isAuction-searchagent" class="form-control" name="isAuction">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuctionBidding-searchagent">
+
+<input type="hidden" id="isAuctionBidding-searchagent" class="form-control" name="isAuctionBidding">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isAuctionClickout-searchagent">
+
+<input type="hidden" id="isAuctionClickout-searchagent" class="form-control" name="isAuctionClickout">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isBuyNow-searchagent">
+
+<input type="hidden" id="isBuyNow-searchagent" class="form-control" name="isBuyNow">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isSpareParts-searchagent">
+
+<input type="hidden" id="isSpareParts-searchagent" class="form-control" name="isSpareParts">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isShown-searchagent">
+
+<input type="hidden" id="isShown-searchagent" class="form-control" name="isShown" value="1">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isPaused-searchagent">
+
+<input type="hidden" id="isPaused-searchagent" class="form-control" name="isPaused">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isUnlocked-searchagent">
+
+<input type="hidden" id="isUnlocked-searchagent" class="form-control" name="isUnlocked">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-strictSearch-searchagent">
+
+<input type="hidden" id="strictSearch-searchagent" class="form-control" name="strictSearch">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-hasTrustseal-searchagent">
+
+<input type="hidden" id="hasTrustseal-searchagent" class="form-control" name="hasTrustseal">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-hasPrice-searchagent">
+
+<input type="hidden" id="hasPrice-searchagent" class="form-control" name="hasPrice" value="1">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isActiveVisible-searchagent">
+
+<input type="hidden" id="isActiveVisible-searchagent" class="form-control" name="isActiveVisible">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-isPending-searchagent">
+
+<input type="hidden" id="isPending-searchagent" class="form-control" name="isPending">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-usePriceGross-searchagent">
+
+<input type="hidden" id="usePriceGross-searchagent" class="form-control" name="usePriceGross" value="">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-maincategoryids">
+<label class="form-label">Main Category Ids</label>
+<input type="hidden" name="mainCategoryIds" value=""><div id="maincategoryids"><div class="form-check">
+<input type="checkbox" id="i59" class="form-check-input" name="mainCategoryIds[]" value="8" checked="">
+<label class="form-check-label" for="i59">8</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-subcategoryids">
+<label class="form-label">Sub Category Ids</label>
+<input type="hidden" name="subCategoryIds" value=""><div id="subcategoryids"><div class="form-check">
+<input type="checkbox" id="i60" class="form-check-input" name="subCategoryIds[]" value="105" checked="">
+<label class="form-check-label" for="i60">105</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-subsubcategoryids">
+<label class="form-label">Sub Sub Category Ids</label>
+<input type="hidden" name="subSubCategoryIds" value=""><div id="subsubcategoryids"><div class="form-check">
+<input type="checkbox" id="i61" class="form-check-input" name="subSubCategoryIds[]" value="1442" checked="">
+<label class="form-check-label" for="i61">1442</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-manufacturers-searchagent">
+
+<input type="hidden" id="manufacturers-searchagent" class="form-control" name="manufacturers">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-models-searchagent">
+
+<input type="hidden" id="models-searchagent" class="form-control" name="models">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-countries">
+<label class="form-label">Countries</label>
+<input type="hidden" name="countries" value=""><div id="countries"><div class="form-check">
+<input type="checkbox" id="i62" class="form-check-input" name="countries[]" value="AT" checked="">
+<label class="form-check-label" for="i62">AT</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i63" class="form-check-input" name="countries[]" value="BE" checked="">
+<label class="form-check-label" for="i63">BE</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i64" class="form-check-input" name="countries[]" value="CH" checked="">
+<label class="form-check-label" for="i64">CH</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i65" class="form-check-input" name="countries[]" value="CZ" checked="">
+<label class="form-check-label" for="i65">CZ</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i66" class="form-check-input" name="countries[]" value="DE" checked="">
+<label class="form-check-label" for="i66">DE</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i67" class="form-check-input" name="countries[]" value="ES" checked="">
+<label class="form-check-label" for="i67">ES</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i68" class="form-check-input" name="countries[]" value="FR" checked="">
+<label class="form-check-label" for="i68">FR</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i69" class="form-check-input" name="countries[]" value="LT" checked="">
+<label class="form-check-label" for="i69">LT</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i70" class="form-check-input" name="countries[]" value="NL" checked="">
+<label class="form-check-label" for="i70">NL</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i71" class="form-check-input" name="countries[]" value="PL" checked="">
+<label class="form-check-label" for="i71">PL</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i72" class="form-check-input" name="countries[]" value="RO" checked="">
+<label class="form-check-label" for="i72">RO</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i73" class="form-check-input" name="countries[]" value="SI" checked="">
+<label class="form-check-label" for="i73">SI</label>
+</div>
+
+<div class="form-check">
+<input type="checkbox" id="i74" class="form-check-input" name="countries[]" value="TR" checked="">
+<label class="form-check-label" for="i74">TR</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-conditions">
+<label class="form-label">Conditions</label>
+<input type="hidden" name="conditions" value=""><div id="conditions"><div class="form-check">
+<input type="checkbox" id="i75" class="form-check-input" name="conditions[]" value="used" checked="">
+<label class="form-check-label" for="i75">used</label>
+<div class="invalid-feedback"></div>
+</div>
+</div>
+
+</div>                        <div class="mb-3 field-regions-searchagent">
+
+<input type="hidden" id="regions-searchagent" class="form-control" name="regions">
+
+<div class="invalid-feedback"></div>
+</div>                        <div class="mb-3 field-properties-searchagent">
+
+<input type="hidden" id="properties-searchagent" class="form-control" name="properties">
+
+<div class="invalid-feedback"></div>
+</div>        </div>
+
+</form></div>            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                    </div>
